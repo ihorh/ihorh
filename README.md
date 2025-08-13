@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Backend Engineer & Technical Leader**
+**Software Engineer & Technical Leader**
 
 Python | Java | SQL | Distributed Systems | Microservices | Cloud  
 
