@@ -15,23 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Software Engineer / Engineering Manager** · 15+ years in software development  
+**Backend Engineer & Technical Leader**
+
+Python | Java | SQL | Distributed Systems | Microservices | Cloud  
+
+10+ years designing and delivering scalable backend systems, APIs, and data platforms for fintech, adtech, climate tech, and enterprise software.
 
 
-### About
 
-Backend-focused engineer with experience in designing and delivering complex systems.  
-Comfortable working across Python, databases, APIs, and cloud infrastructure.  
-Strong analytical and problem-solving skills.
+### Skills / Tech Stack
 
-
-### Skills
-
-- **Languages:** Python
-- **Backend:** FastAPI, SQLAlchemy, asyncio
-- **Data:** PostgreSQL, Redis, RDMBS, NoSQL
-- **Infrastructure:** Docker, CI/CD, cloud deployments  
-- **Other:** System architecture, technical leadership, event-driven architecture
+**Backend / Languages:** Python, FastAPI, Asyncio, SQLAlchemy, Java, Microservices, SOA, REST/SOAP APIs  
+**Databases / Data:** PostgreSQL, MySQL, MongoDB, Redis, EventStoreDB, SQL, NoSQL  
+**Cloud & Infra:** AWS (EC2, S3, Lambda, RDS), GCP (Compute, Pub/Sub), Docker, CI/CD, Event-driven Architecture  
+**Other / Tools:** Prefect, Celery, pandas, ORM patterns, Git, Jira, Confluence  
 
 ### Education
 
