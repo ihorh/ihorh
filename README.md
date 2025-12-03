@@ -33,3 +33,5 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 ### Education
 
 **Master’s Degree** — Applied Mathematics and Informatics
+
+[![Ihor H profile views](https://u8views.com/api/v1/github/profiles/20028926/views/day-week-month-total-count.svg)](https://u8views.com/github/ihorh)
