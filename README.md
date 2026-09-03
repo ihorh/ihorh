@@ -36,7 +36,11 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 
 ### Portfolio
 
-C projects/libs/tools: https://github.com/stars/ihorh/lists/jcthings
+**C projects/libs/tools**:
+
+> list: https://github.com/stars/ihorh/lists/jcthings
+
+* [jzbuild](https://github.com/ihorh/jzbuild) is a convention-over-configuration build helper for C on zig build — replacing hand-written Makefile boilerplate with inferred sources, includes, and tests from a standard layout — with a roadmap toward full multi-target, multi-artifact project configuration for cases the defaults don't cover.
 
 ----
 
