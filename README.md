@@ -34,6 +34,10 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 
 **Master’s Degree** — Applied Mathematics and Informatics
 
+### Portfolio
+
+C projects/libs/tools: https://github.com/stars/ihorh/lists/jcthings
+
 ----
 
 [![Ihor H profile views](https://u8views.com/api/v1/github/profiles/20028926/views/day-week-month-total-count.svg)](https://u8views.com/github/ihorh)
