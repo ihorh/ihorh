@@ -45,6 +45,10 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 
 📝 **my Gists**: [gists](https://gist.github.com/ihorh)
 
+🤖 **Working with AI agents**:
+
+* [jwrite-checks](https://gitlab.com/jaspery/jwrite-checks) - points an agent at sentences a reader is likely to stumble over, before it hands its writing over. Ships with my live Claude Code setup: writing rules and a three-tier memory system, each adoptable on its own.
+
 ----
 
 [![Ihor H profile views](https://u8views.com/api/v1/github/profiles/20028926/views/day-week-month-total-count.svg)](https://u8views.com/github/ihorh)
