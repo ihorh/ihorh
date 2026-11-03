@@ -47,7 +47,10 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 
 🤖 **Working with AI agents**:
 
-* [/jstyle:write](https://github.com/ihorh/jstyle) - An opinionated prose style for your AI agent, so more of what you write gets read. A Claude Code skill straight from my own ~/.claude, with a benchmark.
+> [!TIP]
+> Try **[Claude Code skill for writing](https://github.com/ihorh/jstyle)** - An opinionated
+> prose style for your AI agent, so more of what you write gets read. A Claude Code skill
+> straight from my own `~/.claude` directory, with a benchmark.
 
 ----
 
