@@ -27,7 +27,7 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 
 **Backend / Languages:** Python, FastAPI, Asyncio, SQLAlchemy, Java, Microservices, SOA, REST/SOAP APIs  
 **Databases / Data:** PostgreSQL, MySQL, MongoDB, Redis, EventStoreDB, SQL, NoSQL  
-**Cloud & Infra:** AWS (EC2, S3, Lambda, RDS), GCP (Compute, Pub/Sub), Docker, CI/CD, Event-driven Architecture  
+**Cloud & Infra:** AWS (EC2, S3, Lambda, RDS), GCP (Cloud Run, Compute, Pub/Sub), Cloudflare (R2, Workers, Workers AI), OpenTofu, Docker, CI/CD, Event-driven Architecture  
 **Other / Tools:** Prefect, Celery, pandas, ORM patterns, Git, Jira, Confluence  
 
 ### Education
@@ -35,6 +35,8 @@ Python | Java | SQL | Distributed Systems | Microservices | Cloud
 **Master’s Degree** — Applied Mathematics and Informatics
 
 ### Portfolio
+
+📰 **[prism](https://prismdigest.org)** - live - a daily news digest about Ukraine and the world, in Ukrainian and English. A Python pipeline clusters articles from 18 outlets into events, and a language model writes a summary of each, which a second model call checks against the sources. It runs unattended on Cloud Run and Cloudflare, with the infrastructure in OpenTofu. The repository is private.
 
 🐍 **Python projects**: https://github.com/stars/ihorh/lists/python
 
